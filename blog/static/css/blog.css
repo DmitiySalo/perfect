@@ -9,7 +9,7 @@ body {
 }
 
 .page-header{
-	background-color: #ff9400;
+	background-color: #369;
 	margin-top: 0;
 	padding: 20px 20px 20px 40px;
 }
@@ -49,6 +49,7 @@ body {
     margin-bottom: 70px;
 }
 
-.post h1 a, .post h1 a:visited {
-    color: #000000;
+.post h1 ,.post h1 a , .post h1 a:visited {
+    color: #369;
+    font-family: 'Lobster';
 }
